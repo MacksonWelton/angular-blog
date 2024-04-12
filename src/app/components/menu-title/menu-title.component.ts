@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./menu-title.component.css', './menu-title.responsive.component.css']
 })
 export class MenuTitleComponent {
-  title:string = 'Mackson Blog';
+  title:string = 'Code Blog';
 }

@@ -6,8 +6,9 @@
     justify-content: center;
 }
 
-header {
-    margin-top: 20px;
+.articles-others {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
 }
