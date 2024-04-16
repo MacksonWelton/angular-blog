@@ -1,3 +1,6 @@
+# Sobre
+Trata-se de um blog criado para concluir um desafio proposto pelo Bootcamp de Desenvolvimento Frontend com Angular da Digital Innovation One.
+
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
